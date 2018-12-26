@@ -1,0 +1,124 @@
+20:21:03.182 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:100
+20:21:03.193 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:100
+20:21:03.195 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+20:21:03.202 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,
+20:21:03.205 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:50
+20:21:03.216 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:2
+20:21:03.217 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:1
+20:21:03.219 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:50
+20:21:03.220 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+20:21:03.229 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,
+20:21:03.230 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:140
+20:21:03.231 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:2
+20:21:03.231 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:0
+20:21:03.232 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:140
+20:21:03.233 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+20:21:03.236 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,140,
+20:21:03.237 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:145
+20:21:03.237 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:140, height:2
+20:21:03.237 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:140,fact:-1
+20:21:03.238 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:3
+20:21:03.238 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:-1
+20:21:03.239 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:145
+20:21:03.240 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+20:21:03.240 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,140,145,
+20:21:03.241 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:40
+20:21:03.241 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:50, height:2
+20:21:03.242 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:50,fact:1
+20:21:03.242 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:3
+20:21:03.243 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:0
+20:21:03.244 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:40
+20:21:03.244 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+20:21:03.245 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,140,40,145,
+20:21:03.247 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:150
+20:21:03.248 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:145, height:2
+20:21:03.248 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:145,fact:-1
+20:21:03.248 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:140, height:3
+20:21:03.249 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:140,fact:-2
+20:21:03.249 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:145, height:2
+20:21:03.250 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:3
+20:21:03.250 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:0
+20:21:03.251 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:150
+20:21:03.251 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+20:21:03.252 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,145,40,140,150,
+20:21:03.252 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:70
+20:21:03.252 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:50, height:2
+20:21:03.253 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:50,fact:0
+20:21:03.253 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:3
+20:21:03.254 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:0
+20:21:03.254 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:70
+20:21:03.254 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+20:21:03.254 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,145,40,70,140,150,
+20:21:03.255 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:130
+20:21:03.256 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:140, height:2
+20:21:03.256 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:140,fact:1
+20:21:03.256 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:145, height:3
+20:21:03.257 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:145,fact:1
+20:21:03.257 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:4
+20:21:03.264 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:-1
+20:21:03.264 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:130
+20:21:03.265 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+20:21:03.267 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,145,40,70,140,150,130,
+20:21:03.268 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:20
+20:21:03.269 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:40, height:2
+20:21:03.271 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:40,fact:1
+20:21:03.272 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:50, height:3
+20:21:03.272 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:50,fact:1
+20:21:03.273 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:4
+20:21:03.273 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:0
+20:21:03.274 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:20
+20:21:03.275 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+20:21:03.275 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,145,40,70,140,150,20,130,
+20:21:03.276 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:125
+20:21:03.276 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:130, height:2
+20:21:03.276 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:130,fact:1
+20:21:03.277 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:140, height:3
+20:21:03.277 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:140,fact:2
+20:21:03.277 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:130, height:2
+20:21:03.278 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:145, height:3
+20:21:03.278 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:145,fact:1
+20:21:03.278 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:4
+20:21:03.278 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:0
+20:21:03.279 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:125
+20:21:03.279 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+20:21:03.279 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,145,40,70,130,150,20,125,140,
+20:21:03.279 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:135
+20:21:03.280 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:140, height:2
+20:21:03.280 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:140,fact:1
+20:21:03.280 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:130, height:3
+20:21:03.280 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:130,fact:-1
+20:21:03.281 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:145, height:4
+20:21:03.281 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:145,fact:2
+20:21:03.281 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:130, height:3
+20:21:03.281 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:130, height:3
+21:20:13.855 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:4
+21:20:13.857 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:0
+21:20:13.858 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:135
+21:20:13.861 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+21:20:13.862 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,140,40,70,130,145,20,125,135,150,
+21:20:13.863 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:147
+21:20:13.863 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:150, height:2
+21:20:13.864 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:150,fact:1
+21:20:13.866 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:145, height:3
+21:20:13.867 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:145,fact:-2
+21:20:13.868 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:150, height:2
+21:20:13.868 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:150, height:2
+21:20:13.869 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:140, height:3
+21:20:13.870 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:140,fact:0
+21:20:13.870 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:4
+21:20:13.872 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:0
+21:20:13.873 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:147
+21:20:13.874 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+21:20:13.874 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,140,40,70,130,147,20,125,135,145,150,
+21:20:13.875 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 146 add - put:160
+21:20:13.876 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:150, height:2
+21:20:13.877 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:150,fact:-1
+21:20:13.877 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:147, height:3
+21:20:13.879 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:147,fact:-1
+21:20:13.880 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:140, height:4
+21:20:13.880 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:140,fact:-1
+21:20:13.881 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 94 getBalanceFactor - nodeIndex:100, height:5
+21:20:13.882 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 178 add - node:100,fact:-1
+21:20:13.883 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 150 add - end:160
+21:20:13.883 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 151 add - -----:
+21:20:13.885 INFO  datastructure.u_12_AVLTree.t_07_Remove_Elements_in_AVL_Tree.src.AVLTree 154 add - -----sb:100,50,140,40,70,130,147,20,125,135,145,150,160,
