@@ -19,6 +19,9 @@
         <module>test_son</module>
         <module>test_father</module>
         <module>test_father</module>
+        <module>ebook_Java8InAction_orign</module>
+        <module>webtest_junit5_demo_origin</module>
+        <module>webtest_jcip_origin</module>
     </modules>
 
     <properties>
