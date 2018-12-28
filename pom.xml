@@ -22,6 +22,7 @@
         <module>ebook_Java8InAction_orign</module>
         <module>webtest_junit5_demo_origin</module>
         <module>webtest_jcip_origin</module>
+        <module>sgg_ssm_crud_origin</module>
     </modules>
 
     <properties>
