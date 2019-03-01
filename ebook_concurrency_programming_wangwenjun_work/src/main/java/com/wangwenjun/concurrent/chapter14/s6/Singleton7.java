@@ -4,7 +4,6 @@ package com.wangwenjun.concurrent.chapter14.s6;
  * Holder方式
  */
 public class Singleton7 {
-    ;
 
     private byte[] data = new byte[1024];
 

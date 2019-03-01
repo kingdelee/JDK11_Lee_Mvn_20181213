@@ -31,19 +31,23 @@ public class Grouping {
         return menu.stream().collect(groupingBy(Dish::getType));
     }
 
+    //
     private static Map<Dish.Type, List<String>> groupDishNamesByType() {
         return menu.stream().collect(groupingBy(Dish::getType, mapping(Dish::getName, toList())));
     }
 
+    // 遍历过程中，以type分组，对遍历的每一个元素进行映射生成一个新的元素obj->set
     private static Map<Dish.Type, Set<String>> groupDishTagsByType() {
         return menu.stream().collect(groupingBy(Dish::getType, flatMapping(dish -> dishTags.get(dish.getName()).stream(), toSet())));
     }
 
+    // 只留下符合filter条件的obj->list
     private static Map<Dish.Type, List<Dish>> groupCaloricDishesByType() {
 //        return menu.stream().filter(dish -> dish.getCalories() > 500).collect(groupingBy(Dish::getType));
         return menu.stream().collect(groupingBy(Dish::getType, filtering(dish -> dish.getCalories() > 500, toList())));
     }
 
+    // 遍历，并将其中的元素映射成符合某个条件的obj，以obj进行分组
     private static Map<CaloricLevel, List<Dish>> groupDishesByCaloricLevel() {
         return menu.stream().collect(
                 groupingBy(dish -> {
@@ -53,6 +57,7 @@ public class Grouping {
                 }));
     }
 
+    // map中嵌套map，以type进行外层分组，再对组内的的元素进行以obj为key的分组
     private static Map<Dish.Type, Map<CaloricLevel, List<Dish>>> groupDishedByTypeAndCaloricLevel() {
         return menu.stream().collect(
                 groupingBy(Dish::getType,
@@ -65,10 +70,12 @@ public class Grouping {
         );
     }
 
+    // 以type进行分组，并制定对应的组内元素总和
     private static Map<Dish.Type, Long> countDishesInGroups() {
         return menu.stream().collect(groupingBy(Dish::getType, counting()));
     }
 
+    //
     private static Map<Dish.Type, Optional<Dish>> mostCaloricDishesByType() {
         return menu.stream().collect(
                 groupingBy(Dish::getType,

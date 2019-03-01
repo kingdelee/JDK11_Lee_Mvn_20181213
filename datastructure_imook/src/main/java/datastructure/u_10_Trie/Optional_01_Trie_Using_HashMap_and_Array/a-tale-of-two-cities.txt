@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of A Tale of Two Cities, by Charles Dickens
+﻿The Project Gutenberg EBook of com.lee.test.A Tale of Two Cities, by Charles Dickens
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,8 +6,8 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: A Tale of Two Cities
-       A Story of the French Revolution
+Title: com.lee.test.A Tale of Two Cities
+       com.lee.test.A Story of the French Revolution
 
 Author: Charles Dickens
 
@@ -19,7 +19,7 @@ Language: English
 
 Character set encoding: UTF-8
 
-*** START OF THIS PROJECT GUTENBERG EBOOK A TALE OF TWO CITIES ***
+*** START OF THIS PROJECT GUTENBERG EBOOK com.lee.test.A TALE OF TWO CITIES ***
 
 
 
@@ -33,9 +33,9 @@ Produced by Judith Boss
 
 
 
-A TALE OF TWO CITIES
+com.lee.test.A TALE OF TWO CITIES
 
-A STORY OF THE FRENCH REVOLUTION
+com.lee.test.A STORY OF THE FRENCH REVOLUTION
 
 By Charles Dickens
 
@@ -56,8 +56,8 @@ CONTENTS
      Book the Second--the Golden Thread
 
      Chapter I      Five Years Later
-     Chapter II     A Sight
-     Chapter III    A Disappointment
+     Chapter II     com.lee.test.A Sight
+     Chapter III    com.lee.test.A Disappointment
      Chapter IV     Congratulatory
      Chapter V      The Jackal
      Chapter VI     Hundreds of People
@@ -65,7 +65,7 @@ CONTENTS
      Chapter VIII   Monseigneur in the Country
      Chapter IX     The Gorgon's Head
      Chapter X      Two Promises
-     Chapter XI     A Companion Picture
+     Chapter XI     com.lee.test.A Companion Picture
      Chapter XII    The Fellow of Delicacy
      Chapter XIII   The Fellow of no Delicacy
      Chapter XIV    The Honest Tradesman
@@ -74,7 +74,7 @@ CONTENTS
      Chapter XVII   One Night
      Chapter XVIII  Nine Days
      Chapter XIX    An Opinion
-     Chapter XX     A Plea
+     Chapter XX     com.lee.test.A Plea
      Chapter XXI    Echoing Footsteps
      Chapter XXII   The Sea Still Rises
      Chapter XXIII  Fire Rises
@@ -89,8 +89,8 @@ CONTENTS
      Chapter IV     Calm in Storm
      Chapter V      The Wood-sawyer
      Chapter VI     Triumph
-     Chapter VII    A Knock at the Door
-     Chapter VIII   A Hand at Cards
+     Chapter VII    com.lee.test.A Knock at the Door
+     Chapter VIII   com.lee.test.A Hand at Cards
      Chapter IX     The Game Made
      Chapter X      The Substance of the Shadow
      Chapter XI     Dusk
@@ -243,7 +243,7 @@ nervous passenger might, and was disturbed in mind.
 
 There was a steaming mist in all the hollows, and it had roamed in its
 forlornness up the hill, like an evil spirit, seeking rest and finding
-none. A clammy and intensely cold mist, it made its slow way through the
+none. com.lee.test.A clammy and intensely cold mist, it made its slow way through the
 air in ripples that visibly followed and overspread one another, as the
 waves of an unwholesome sea might do. It was dense enough to shut out
 everything from the light of the coach-lamps but these its own workings,
@@ -370,7 +370,7 @@ himself. “He's hoarser than suits me, is Jerry.”)
 
 “What is the matter?”
 
-“A despatch sent after you from over yonder. T. and Co.”
+“com.lee.test.A despatch sent after you from over yonder. T. and Co.”
 
 “I know this messenger, guard,” said Mr. Lorry, getting down into the
 road--assisted from behind more swiftly than politely by the other two
@@ -401,7 +401,7 @@ blunderbuss, his left at the barrel, and his eye on the horseman,
 answered curtly, “Sir.”
 
 “There is nothing to apprehend. I belong to Tellson's Bank. You must
-know Tellson's Bank in London. I am going to Paris on business. A crown
+know Tellson's Bank in London. I am going to Paris on business. com.lee.test.A crown
 to drink. I may read this?”
 
 “If so be as you're quick, sir.”
@@ -471,8 +471,8 @@ Jerry!”
 III. The Night Shadows
 
 
-A wonderful fact to reflect upon, that every human creature is
-constituted to be that profound secret and mystery to every other. A
+com.lee.test.A wonderful fact to reflect upon, that every human creature is
+constituted to be that profound secret and mystery to every other. com.lee.test.A
 solemn consideration, when I enter a great city by night, that every
 one of those darkly clustered houses encloses its own secret; that every
 room in every one of them encloses its own secret; that every beating
@@ -570,7 +570,7 @@ and in the ghastliness of their worn and wasted state. Pride, contempt,
 defiance, stubbornness, submission, lamentation, succeeded one another;
 so did varieties of sunken cheek, cadaverous colour, emaciated hands
 and figures. But the face was in the main one face, and every head was
-prematurely white. A hundred times the dozing passenger inquired of this
+prematurely white. com.lee.test.A hundred times the dozing passenger inquired of this
 spectre:
 
 “Buried how long?”
@@ -711,7 +711,7 @@ head: which wig, it is to be presumed, was made of hair, but which
 looked far more as though it were spun from filaments of silk or glass.
 His linen, though not of a fineness in accordance with his stockings,
 was as white as the tops of the waves that broke upon the neighbouring
-beach, or the specks of sail that glinted in the sunlight far at sea. A
+beach, or the specks of sail that glinted in the sunlight far at sea. com.lee.test.A
 face habitually suppressed and quieted, was still lighted up under the
 quaint wig by a pair of moist bright eyes that it must have cost
 their owner, in years gone by, some pains to drill to the composed and
@@ -734,7 +734,7 @@ gentleman from Tellson's Bank. Please to let me know.”
 “Yes.”
 
 “Yes, sir. We have oftentimes the honour to entertain your gentlemen in
-their travelling backwards and forwards betwixt London and Paris, sir. A
+their travelling backwards and forwards betwixt London and Paris, sir. com.lee.test.A
 vast deal of travelling, sir, in Tellson and Company's House.”
 
 “Yes. We are quite a French House, as well as an English one.”
@@ -773,7 +773,7 @@ wildly about, and the sea did what it liked, and what it liked was
 destruction. It thundered at the town, and thundered at the cliffs, and
 brought the coast down, madly. The air among the houses was of so strong
 a piscatory flavour that one might have supposed sick fish went up to be
-dipped in it, as sick people went down to be dipped in the sea. A little
+dipped in it, as sick people went down to be dipped in the sea. com.lee.test.A little
 fishing was done in the port, and a quantity of strolling about by
 night, and looking seaward: particularly at those times when the tide
 made, and was near flood. Small tradesmen, who did no business whatever,
@@ -787,7 +787,7 @@ too. When it was dark, and he sat before the coffee-room fire, awaiting
 his dinner as he had awaited his breakfast, his mind was busily digging,
 digging, digging, in the live red coals.
 
-A bottle of good claret after dinner does a digger in the red coals no
+com.lee.test.A bottle of good claret after dinner does a digger in the red coals no
 harm, otherwise than as it has a tendency to throw him out of work.
 Mr. Lorry had been idle a long time, and had just poured out his last
 glassful of wine with as complete an appearance of satisfaction as is
@@ -1004,7 +1004,7 @@ been the history of this unfortunate gentleman, the Doctor of Beauvais.”
 moment.”
 
 “You speak collectedly, and you--_are_ collected. That's good!” (Though
-his manner was less satisfied than his words.) “A matter of business.
+his manner was less satisfied than his words.) “com.lee.test.A matter of business.
 Regard it as a matter of business--business that must be done. Now
 if this doctor's wife, though a lady of great courage and spirit,
 had suffered so intensely from this cause before her little child was
@@ -1012,7 +1012,7 @@ born--”
 
 “The little child was a daughter, sir.”
 
-“A daughter. A-a-matter of business--don't be distressed. Miss, if the
+“com.lee.test.A daughter. com.lee.test.A-a-matter of business--don't be distressed. Miss, if the
 poor lady had suffered so intensely before her little child was born,
 that she came to the determination of sparing the poor child the
 inheritance of any part of the agony she had known the pains of, by
@@ -1021,7 +1021,7 @@ Heaven's name why should you kneel to me!”
 
 “For the truth. O dear, good, compassionate sir, for the truth!”
 
-“A--a matter of business. You confuse me, and how can I transact
+“com.lee.test.A--a matter of business. You confuse me, and how can I transact
 business if I am confused? Let us be clear-headed. If you could kindly
 mention now, for instance, what nine times ninepence are, or how many
 shillings in twenty guineas, it would be so encouraging. I should be so
@@ -1058,7 +1058,7 @@ Still, alive. Your father has been taken to the house of an old servant
 in Paris, and we are going there: I, to identify him if I can: you, to
 restore him to life, love, duty, rest, comfort.”
 
-A shiver ran through her frame, and from it through his. She said, in a
+com.lee.test.A shiver ran through her frame, and from it through his. She said, in a
 low, distinct, awe-stricken voice, as if she were saying it in a dream,
 
 “I am going to see his Ghost! It will be his Ghost--not him!”
@@ -1094,7 +1094,7 @@ branded into her forehead. So close was her hold upon his arm, that he
 feared to detach himself lest he should hurt her; therefore he called
 out loudly for assistance without moving.
 
-A wild-looking woman, whom even in his agitation, Mr. Lorry observed to
+com.lee.test.A wild-looking woman, whom even in his agitation, Mr. Lorry observed to
 be all of a red colour, and to have red hair, and to be dressed in some
 extraordinary tight-fitting fashion, and to have on her head a most
 wonderful bonnet like a Grenadier wooden measure, and good measure too,
@@ -1137,7 +1137,7 @@ upon her shoulder.
 “I hope,” said Mr. Lorry, after another pause of feeble sympathy and
 humility, “that you accompany Miss Manette to France?”
 
-“A likely thing, too!” replied the strong woman. “If it was ever
+“com.lee.test.A likely thing, too!” replied the strong woman. “If it was ever
 intended that I should go across salt water, do you suppose Providence
 would have cast my lot in an island?”
 
@@ -1150,7 +1150,7 @@ consider it.
 V. The Wine-shop
 
 
-A large cask of wine had been dropped and broken, in the street. The
+com.lee.test.A large cask of wine had been dropped and broken, in the street. The
 accident had happened in getting it out of a cart; the cask had tumbled
 out with a run, the hoops had burst, and it lay on the stones just
 outside the door of the wine-shop, shattered like a walnut-shell.
@@ -1177,7 +1177,7 @@ along with it, that there might have been a scavenger in the street,
 if anybody acquainted with it could have believed in such a miraculous
 presence.
 
-A shrill sound of laughter and of amused voices--voices of men, women,
+com.lee.test.A shrill sound of laughter and of amused voices--voices of men, women,
 and children--resounded in the street while this wine game lasted. There
 was little roughness in the sport, and much playfulness. There was a
 special companionship in it, an observable inclination on the part
@@ -1235,7 +1235,7 @@ chestnuts in the turned cylinder; Hunger was shred into atomics in every
 farthing porringer of husky chips of potato, fried with some reluctant
 drops of oil.
 
-Its abiding place was in all things fitted to it. A narrow winding
+Its abiding place was in all things fitted to it. com.lee.test.A narrow winding
 street, full of offence and stench, with other narrow winding streets
 diverging, all peopled by rags and nightcaps, and all smelling of rags
 and nightcaps, and all visible things with a brooding look upon them
@@ -1297,7 +1297,7 @@ In his expostulation he dropped his cleaner hand (perhaps accidentally,
 perhaps not) upon the joker's heart. The joker rapped it with his
 own, took a nimble spring upward, and came down in a fantastic dancing
 attitude, with one of his stained shoes jerked off his foot into his
-hand, and held out. A joker of an extremely, not to say wolfishly
+hand, and held out. com.lee.test.A joker of an extremely, not to say wolfishly
 practical character, he looked, under those circumstances.
 
 “Put it on, put it on,” said the other. “Call wine, wine; and finish
@@ -1370,7 +1370,7 @@ cough, and raised her eyebrows by the breadth of another line.
 The last of the three now said his say, as he put down his empty
 drinking vessel and smacked his lips.
 
-“Ah! So much the worse! A bitter taste it is that such poor cattle
+“Ah! So much the worse! com.lee.test.A bitter taste it is that such poor cattle
 always have in their mouths, and hard lives they live, Jacques. Am I
 right, Jacques?”
 
@@ -1553,14 +1553,14 @@ three or four times, before he put it clumsily into the lock, and turned
 it as heavily as he could.
 
 The door slowly opened inward under his hand, and he looked into the
-room and said something. A faint voice answered something. Little more
+room and said something. com.lee.test.A faint voice answered something. Little more
 than a single syllable could have been spoken on either side.
 
 He looked back over his shoulder, and beckoned them to enter. Mr. Lorry
 got his arm securely round the daughter's waist, and held her; for he
 felt that she was sinking.
 
-“A-a-a-business, business!” he urged, with a moisture that was not of
+“com.lee.test.A-a-a-business, business!” he urged, with a moisture that was not of
 business shining on his cheek. “Come in, come in!”
 
 “I am afraid of it,” she answered, shuddering.
@@ -1647,7 +1647,7 @@ other side of him; then, upward at the speaker.
 stress upon the second word.)
 
 The opened half-door was opened a little further, and secured at that
-angle for the time. A broad ray of light fell into the garret, and
+angle for the time. com.lee.test.A broad ray of light fell into the garret, and
 showed the workman with an unfinished shoe upon his lap, pausing in his
 labour. His few common tools and various scraps of leather were at his
 feet and on his bench. He had a white beard, raggedly cut, but not very
@@ -1829,7 +1829,7 @@ She sighed “No.”
 “Who are you?”
 
 Not yet trusting the tones of her voice, she sat down on the bench
-beside him. He recoiled, but she laid her hand upon his arm. A strange
+beside him. He recoiled, but she laid her hand upon his arm. com.lee.test.A strange
 thrill struck him when she did so, and visibly passed over his frame; he
 laid the knife down softly, as he sat staring at her.
 
@@ -2193,7 +2193,7 @@ exclaimed, in a voice of dire exasperation:
 
 “Bust me, if she ain't at it agin!”
 
-A woman of orderly and industrious appearance rose from her knees in a
+com.lee.test.A woman of orderly and industrious appearance rose from her knees in a
 corner, with sufficient haste and trepidation to show that she was the
 person referred to.
 
@@ -2334,7 +2334,7 @@ rust here!”
 
 
 
-II. A Sight
+II. com.lee.test.A Sight
 
 
 “You know the Old Bailey well, no doubt?” said one of the oldest of
@@ -2610,7 +2610,7 @@ axe, and hammer the nails into the scaffold.
 
 
 
-III. A Disappointment
+III. com.lee.test.A Disappointment
 
 
 Mr. Attorney-General had to inform the jury, that the prisoner before
@@ -2811,7 +2811,7 @@ came on board in the dead of the night?”
 
 “Were you travelling alone, Mr. Lorry, or with any companion?”
 
-“With two companions. A gentleman and lady. They are here.”
+“With two companions. com.lee.test.A gentleman and lady. They are here.”
 
 “They are here. Had you any conversation with the prisoner?”
 
@@ -2970,7 +2970,7 @@ He answered, in a low voice, “There is.”
 “Has it been your misfortune to undergo a long imprisonment, without
 trial, or even accusation, in your native country, Doctor Manette?”
 
-He answered, in a tone that went to every heart, “A long imprisonment.”
+He answered, in a tone that went to every heart, “com.lee.test.A long imprisonment.”
 
 “Were you newly released on the occasion in question?”
 
@@ -2988,7 +2988,7 @@ familiar. I have no remembrance of the process.”
 Mr. Attorney-General sat down, and the father and daughter sat down
 together.
 
-A singular circumstance then arose in the case. The object in hand being
+com.lee.test.A singular circumstance then arose in the case. The object in hand being
 to show that the prisoner went down, with some fellow-plotter untracked,
 in the Dover mail on that Friday night in November five years ago, and
 got out of the mail in the night, as a blind, at a place where he did
@@ -3292,7 +3292,7 @@ passages, the iron gates were being closed with a jar and a rattle,
 and the dismal place was deserted until to-morrow morning's interest of
 gallows, pillory, whipping-post, and branding-iron, should repeople it.
 Walking between her father and Mr. Darnay, Lucie Manette passed into
-the open air. A hackney-coach was called, and the father and daughter
+the open air. com.lee.test.A hackney-coach was called, and the father and daughter
 departed in it.
 
 Mr. Stryver had left them in the passages, to shoulder his way back
@@ -3410,7 +3410,7 @@ pieces; then, rang the bell, and ordered in another.
 “That's a fair young lady to hand to a coach in the dark, Mr. Darnay!”
  he said, filling his new goblet.
 
-A slight frown and a laconic “Yes,” were the answer.
+com.lee.test.A slight frown and a laconic “Yes,” were the answer.
 
 “That's a fair young lady to be pitied by and wept for by! How does it
 feel? Is it worth being tried for one's life, to be the object of such
@@ -3455,7 +3455,7 @@ ten.”
 
 The bill being paid, Charles Darnay rose and wished him good night.
 Without returning the wish, Carton rose too, with something of a threat
-of defiance in his manner, and said, “A last word, Mr. Darnay: you think
+of defiance in his manner, and said, “com.lee.test.A last word, Mr. Darnay: you think
 I am drunk?”
 
 “I think you have been drinking, Mr. Carton.”
@@ -3478,7 +3478,7 @@ glass that hung against the wall, and surveyed himself minutely in it.
 “Do you particularly like the man?” he muttered, at his own image; “why
 should you particularly like a man who resembles you? There is nothing
 in you to like; you know that. Ah, confound you! What a change you have
-made in yourself! A good reason for taking to a man, that he shows you
+made in yourself! com.lee.test.A good reason for taking to a man, that he shows you
 what you have fallen away from, and what you might have been! Change
 places with him, and would you have been looked at by those blue eyes as
 he was, and commiserated by that agitated face as he was? Come on, and
@@ -3505,7 +3505,7 @@ Stryver, already fast shouldering his way to a large and lucrative
 practice, behind his compeers in this particular, any more than in the
 drier parts of the legal race.
 
-A favourite at the Old Bailey, and eke at the Sessions, Mr. Stryver had
+com.lee.test.A favourite at the Old Bailey, and eke at the Sessions, Mr. Stryver had
 begun cautiously to hew away the lower staves of the ladder on which
 he mounted. Sessions and Old Bailey had now to summon their favourite,
 specially, to their longing arms; and shouldering itself towards the
@@ -3567,7 +3567,7 @@ Art, through the portraits of every Drinking Age.
 “About the usual time; it may be a quarter of an hour later.”
 
 They went into a dingy room lined with books and littered with papers,
-where there was a blazing fire. A kettle steamed upon the hob, and in
+where there was a blazing fire. com.lee.test.A kettle steamed upon the hob, and in
 the midst of the wreck of papers a table shone, with plenty of wine upon
 it, and brandy, and rum, and sugar, and lemons.
 
@@ -3742,7 +3742,7 @@ wilderness before him, a mirage of honourable ambition, self-denial, and
 perseverance. In the fair city of this vision, there were airy galleries
 from which the loves and graces looked upon him, gardens in which the
 fruits of life hung ripening, waters of Hope that sparkled in his sight.
-A moment, and it was gone. Climbing to a high chamber in a well of
+com.lee.test.A moment, and it was gone. Climbing to a high chamber in a well of
 houses, he threw himself down in his clothes on a neglected bed, and its
 pillow was wet with wasted tears.
 
@@ -3776,7 +3776,7 @@ his own little shrewd doubts to solve, and knew how the ways of the
 Doctor's household pointed to that time as a likely time for solving
 them.
 
-A quainter corner than the corner where the Doctor lived, was not to be
+com.lee.test.A quainter corner than the corner where the Doctor lived, was not to be
 found in London. There was no way through it, and the front windows of
 the Doctor's lodgings commanded a pleasant little vista of street that
 had a congenial air of retirement on it. There were few buildings then,
@@ -4222,7 +4222,7 @@ get shelter before the storm broke; the wonderful corner for echoes
 resounded with the echoes of footsteps coming and going, yet not a
 footstep was there.
 
-“A multitude of people, and yet a solitude!” said Darnay, when they had
+“com.lee.test.A multitude of people, and yet a solitude!” said Darnay, when they had
 listened for a while.
 
 “Is it not impressive, Mr. Darnay?” asked Lucie. “Sometimes, I have
@@ -4264,7 +4264,7 @@ had been a vivid flash which had shown him lounging in the window.
 come, fast, fierce, and furious!”
 
 It was the rush and roar of rain that he typified, and it stopped him,
-for no voice could be heard in it. A memorable storm of thunder and
+for no voice could be heard in it. com.lee.test.A memorable storm of thunder and
 lightning broke with that sweep of water, and there was not a moment's
 interval in crash, and fire, and rain, until after the moon rose at
 midnight.
@@ -4322,7 +4322,7 @@ and the Grand Opera were charmingly represented. Monseigneur was out at
 a little supper most nights, with fascinating company. So polite and so
 impressible was Monseigneur, that the Comedy and the Grand Opera had far
 more influence with him in the tiresome articles of state affairs and
-state secrets, than the needs of all France. A happy circumstance
+state secrets, than the needs of all France. com.lee.test.A happy circumstance
 for France, as the like always is for all countries similarly
 favoured!--always was for England (by way of example), in the regretted
 days of the merry Stuart who sold it.
@@ -4352,7 +4352,7 @@ rooms, much prostrated before by mankind--always excepting superior
 mankind of the blood of Monseigneur, who, his own wife included, looked
 down upon him with the loftiest contempt.
 
-A sumptuous man was the Farmer-General. Thirty horses stood in his
+com.lee.test.A sumptuous man was the Farmer-General. Thirty horses stood in his
 stables, twenty-four male domestics sat in his halls, six body-women
 waited on his wife. As one who pretended to do nothing but plunder and
 forage where he could, the Farmer-General--howsoever his matrimonial
@@ -4478,7 +4478,7 @@ With that, he shook the snuff from his fingers as if he had shaken the
 dust from his feet, and quietly walked downstairs.
 
 He was a man of about sixty, handsomely dressed, haughty in manner, and
-with a face like a fine mask. A face of a transparent paleness; every
+with a face like a fine mask. com.lee.test.A face of a transparent paleness; every
 feature in it clearly defined; one set expression on it. The nose,
 beautifully formed otherwise, was very slightly pinched at the top
 of each nostril. In those two compressions, or dints, the only little
@@ -4521,7 +4521,7 @@ and there were twenty hands at the horses' bridles.
 
 “What has gone wrong?” said Monsieur, calmly looking out.
 
-A tall man in a nightcap had caught up a bundle from among the feet of
+com.lee.test.A tall man in a nightcap had caught up a bundle from among the feet of
 the horses, and had laid it on the basement of the fountain, and was
 down in the mud and wet, howling over it like a wild animal.
 
@@ -4634,7 +4634,7 @@ things ran their course.
 VIII. Monseigneur in the Country
 
 
-A beautiful landscape, with the corn bright in it, but not abundant.
+com.lee.test.A beautiful landscape, with the corn bright in it, but not abundant.
 Patches of poor rye where corn should have been, patches of poor peas
 and beans, patches of most coarse vegetable substitutes for wheat. On
 inanimate nature, as on the men and women who cultivated it, a prevalent
@@ -4643,7 +4643,7 @@ disposition to give up, and wither away.
 
 Monsieur the Marquis in his travelling carriage (which might have been
 lighter), conducted by four post-horses and two postilions, fagged up
-a steep hill. A blush on the countenance of Monsieur the Marquis was
+a steep hill. com.lee.test.A blush on the countenance of Monsieur the Marquis was
 no impeachment of his high breeding; it was not from within; it was
 occasioned by an external circumstance beyond his control--the setting
 sun.
@@ -4883,7 +4883,7 @@ IX. The Gorgon's Head
 
 It was a heavy mass of building, that chateau of Monsieur the Marquis,
 with a large stone courtyard before it, and two stone sweeps of
-staircase meeting in a stone terrace before the principal door. A stony
+staircase meeting in a stone terrace before the principal door. com.lee.test.A stony
 business altogether, with heavy stone balustrades, and stone urns, and
 stone flowers, and stone faces of men, and stone heads of lions, in
 all directions. As if the Gorgon's head had surveyed it, when it was
@@ -4918,8 +4918,8 @@ break--the fourteenth Louis--was conspicuous in their rich furniture;
 but, it was diversified by many objects that were illustrations of old
 pages in the history of France.
 
-A supper-table was laid for two, in the third of the rooms; a round
-room, in one of the chateau's four extinguisher-topped towers. A small
+com.lee.test.A supper-table was laid for two, in the third of the rooms; a round
+room, in one of the chateau's four extinguisher-topped towers. com.lee.test.A small
 lofty room, with its window wide open, and the wooden jalousie-blinds
 closed, so that the dark night only showed in slight horizontal lines of
 black, alternating with their broad lines of stone colour.
@@ -5058,7 +5058,7 @@ Pray excuse me!”
 yesterday was, as usual, a cold one,” observed the nephew.
 
 “I would not say happily, my friend,” returned the uncle, with refined
-politeness; “I would not be sure of that. A good opportunity for
+politeness; “I would not be sure of that. com.lee.test.A good opportunity for
 consideration, surrounded by the advantages of solitude, might influence
 your destiny to far greater advantage than you influence it for
 yourself. But it is useless to discuss the question. I am, as you say,
@@ -5092,7 +5092,7 @@ involuntary homage of the low.”
 look at, in all this country round about us, which looks at me with any
 deference on it but the dark deference of fear and slavery.”
 
-“A compliment,” said the Marquis, “to the grandeur of the family,
+“com.lee.test.A compliment,” said the Marquis, “to the grandeur of the family,
 merited by the manner in which the family has sustained its grandeur.
 Hah!” And he took another gentle little pinch of snuff, and lightly
 crossed his legs.
@@ -5121,7 +5121,7 @@ was fired, out of the barrels of a hundred thousand muskets.
 of the family, if you will not. But you must be fatigued. Shall we
 terminate our conference for the night?”
 
-“A moment more.”
+“com.lee.test.A moment more.”
 
 “An hour, if you please.”
 
@@ -5226,7 +5226,7 @@ with a smile.
 be indebted to you, sir. For the rest, it is my Refuge.”
 
 “They say, those boastful English, that it is the Refuge of many. You
-know a compatriot who has found a Refuge there? A Doctor?”
+know a compatriot who has found a Refuge there? com.lee.test.A Doctor?”
 
 “Yes.”
 
@@ -5243,7 +5243,7 @@ time, the thin straight lines of the setting of the eyes, and the thin
 straight lips, and the markings in the nose, curved with a sarcasm that
 looked handsomely diabolic.
 
-“Yes,” repeated the Marquis. “A Doctor with a daughter. Yes. So
+“Yes,” repeated the Marquis. “com.lee.test.A Doctor with a daughter. Yes. So
 commences the new philosophy! You are fatigued. Good night!”
 
 It would have been of as much avail to interrogate any stone face
@@ -5405,7 +5405,7 @@ to lie on beds of roses; if he had had any such exalted expectation, he
 would not have prospered. He had expected labour, and he found it, and
 did it and made the best of it. In this, his prosperity consisted.
 
-A certain portion of his time was passed at Cambridge, where he
+com.lee.test.A certain portion of his time was passed at Cambridge, where he
 read with undergraduates as a sort of tolerated smuggler who drove a
 contraband trade in European languages, instead of conveying Greek
 and Latin through the Custom-house. The rest of his time he passed in
@@ -5595,7 +5595,7 @@ come in aid of it, and bind her closer to you, if such a thing can be.”
 His touch still lingered on her father's hand. Answering the touch for a
 moment, but not coldly, her father rested his hands upon the arms of
 his chair, and looked up for the first time since the beginning of the
-conference. A struggle was evidently in his face; a struggle with that
+conference. com.lee.test.A struggle was evidently in his face; a struggle with that
 occasional look which had a tendency in it to dark doubt and dread.
 
 “You speak so feelingly and so manfully, Charles Darnay, that I thank
@@ -5738,7 +5738,7 @@ work, were all as usual.
 
 
 
-XI. A Companion Picture
+XI. com.lee.test.A Companion Picture
 
 
 “Sydney,” said Mr. Stryver, on that self-same night, or morning, to his
@@ -6331,7 +6331,7 @@ died out of me. Since I knew you, I have been troubled by a remorse that
 I thought would never reproach me again, and have heard whispers from
 old voices impelling me upward, that I thought were silent for ever. I
 have had unformed ideas of striving afresh, beginning anew, shaking off
-sloth and sensuality, and fighting out the abandoned fight. A dream, all
+sloth and sensuality, and fighting out the abandoned fight. com.lee.test.A dream, all
 a dream, that ends in nothing, and leaves the sleeper where he lay down,
 but I wish you to know that you inspired it.”
 
@@ -6553,7 +6553,7 @@ members of the profession to reason, the protest was faint and brief.
 The remodelled procession started, with a chimney-sweep driving the
 hearse--advised by the regular driver, who was perched beside him, under
 close inspection, for the purpose--and with a pieman, also attended
-by his cabinet minister, driving the mourning coach. A bear-leader, a
+by his cabinet minister, driving the mourning coach. com.lee.test.A bear-leader, a
 popular street character of the time, was impressed as an additional
 ornament, before the cavalcade had gone far down the Strand; and his
 bear, who was black and very mangy, gave quite an Undertaking air to
@@ -6798,7 +6798,7 @@ husband to disobey him on the wital subject of his business?”
 
 “It's enough for you,” retorted Mr. Cruncher, “to be the wife of a
 honest tradesman, and not to occupy your female mind with calculations
-when he took to his trade or when he didn't. A honouring and obeying
+when he took to his trade or when he didn't. com.lee.test.A honouring and obeying
 wife would let his trade alone altogether. Call yourself a religious
 woman? If you're a religious woman, give me a irreligious one! You have
 no more nat'ral sense of duty than the bed of this here Thames river has
@@ -6869,7 +6869,7 @@ Defarge. As early as six o'clock in the morning, sallow faces peeping
 through its barred windows had descried other faces within, bending over
 measures of wine. Monsieur Defarge sold a very thin wine at the best
 of times, but it would seem to have been an unusually thin wine that
-he sold at this time. A sour wine, moreover, or a souring, for its
+he sold at this time. com.lee.test.A sour wine, moreover, or a souring, for its
 influence on the mood of those who drank it was to make them gloomy. No
 vivacious Bacchanalian flame leaped out of the pressed grape of Monsieur
 Defarge: but, a smouldering fire that burnt in the dark, lay hidden in
@@ -6894,7 +6894,7 @@ wine, with a bowl of battered small coins before her, as much defaced
 and beaten out of their original impress as the small coinage of
 humanity from whose ragged pockets they had come.
 
-A suspended interest and a prevalent absence of mind, were perhaps
+com.lee.test.A suspended interest and a prevalent absence of mind, were perhaps
 observed by the spies who looked in at the wine-shop, as they looked in
 at every place, high and low, from the king's palace to the criminal's
 gaol. Games at cards languished, players at dominoes musingly built
@@ -6929,11 +6929,11 @@ Jacques. I met him--by accident--a day and half's journey out of Paris.
 He is a good child, this mender of roads, called Jacques. Give him to
 drink, my wife!”
 
-A second man got up and went out. Madame Defarge set wine before the
+com.lee.test.A second man got up and went out. Madame Defarge set wine before the
 mender of roads called Jacques, who doffed his blue cap to the company,
 and drank. In the breast of his blouse he carried some coarse dark
 bread; he ate of this between whiles, and sat munching and drinking near
-Madame Defarge's counter. A third man got up and went out.
+Madame Defarge's counter. com.lee.test.A third man got up and went out.
 
 Defarge refreshed himself with a draught of wine--but, he took less
 than was given to the stranger, as being himself a man to whom it was no
@@ -7351,7 +7351,7 @@ for listening to the trees and to the fountain, that the few village
 scarecrows who, in their quest for herbs to eat and fragments of dead
 stick to burn, strayed within sight of the great stone courtyard and
 terrace staircase, had it borne in upon their starved fancy that
-the expression of the faces was altered. A rumour just lived in the
+the expression of the faces was altered. com.lee.test.A rumour just lived in the
 village--had a faint and bare existence there, as its people had--that
 when the knife struck home, the faces changed, from faces of pride to
 faces of anger and pain; also, that when that dangling figure was hauled
@@ -7475,7 +7475,7 @@ too.
 swallow a town. Eh well! Tell me how long it takes to prepare the
 earthquake?”
 
-“A long time, I suppose,” said Defarge.
+“com.lee.test.A long time, I suppose,” said Defarge.
 
 “But when it is ready, it takes place, and grinds to pieces everything
 before it. In the meantime, it is always preparing, though it is not
@@ -7526,7 +7526,7 @@ out, and then gathering the heavy handkerchief under her arm in a serene
 manner, and observing that it was time to go to bed.
 
 Next noontide saw the admirable woman in her usual place in the
-wine-shop, knitting away assiduously. A rose lay beside her, and if she
+wine-shop, knitting away assiduously. com.lee.test.A rose lay beside her, and if she
 now and then glanced at the flower, it was with no infraction of her
 usual preoccupied air. There were a few customers, drinking or not
 drinking, standing or seated, sprinkled about. The day was very hot,
@@ -7538,7 +7538,7 @@ themselves were elephants, or something as far removed), until they met
 the same fate. Curious to consider how heedless flies are!--perhaps they
 thought as much at Court that sunny summer day.
 
-A figure entering at the door threw a shadow on Madame Defarge which she
+com.lee.test.A figure entering at the door threw a shadow on Madame Defarge which she
 felt to be a new one. She laid down her knitting, and began to pin her
 rose in her head-dress, before she looked at the figure.
 
@@ -7574,7 +7574,7 @@ of observing the place in general.
 
 “I am accustomed to it.”
 
-“A pretty pattern too!”
+“com.lee.test.A pretty pattern too!”
 
 “_You_ think so?” said madame, looking at him with a smile.
 
@@ -7635,7 +7635,7 @@ not allow his baffled state to express itself in his sinister face; but,
 stood with an air of gossiping gallantry, leaning his elbow on Madame
 Defarge's little counter, and occasionally sipping his cognac.
 
-“A bad business this, madame, of Gaspard's execution. Ah! the poor
+“com.lee.test.A bad business this, madame, of Gaspard's execution. Ah! the poor
 Gaspard!” With a sigh of great compassion.
 
 “My faith!” returned madame, coolly and lightly, “if people use knives
@@ -7819,7 +7819,7 @@ Defarge moved on from group to group, all three went quicker and fiercer
 among every little knot of women that she had spoken with, and left
 behind.
 
-Her husband smoked at his door, looking after her with admiration. “A
+Her husband smoked at his door, looking after her with admiration. “com.lee.test.A
 great woman,” said he, “a strong woman, a grand woman, a frightfully
 grand woman!”
 
@@ -8034,7 +8034,7 @@ then, leaned over him, and looked at him.
 
 Into his handsome face, the bitter waters of captivity had worn; but, he
 covered up their tracks with a determination so strong, that he held the
-mastery of them even in his sleep. A more remarkable face in its quiet,
+mastery of them even in his sleep. com.lee.test.A more remarkable face in its quiet,
 resolute, and guarded struggle with an unseen assailant, was not to be
 beheld in all the wide dominions of sleep, that night.
 
@@ -8202,7 +8202,7 @@ Mr. Lorry glanced at the work in his hand, and observed that it was a
 shoe of the old size and shape. He took up another that was lying by
 him, and asked what it was.
 
-“A young lady's walking shoe,” he muttered, without looking up. “It
+“com.lee.test.A young lady's walking shoe,” he muttered, without looking up. “It
 ought to have been finished long ago. Let it be.”
 
 “But, Doctor Manette. Look at me!”
@@ -8653,7 +8653,7 @@ crime.
 
 
 
-XX. A Plea
+XX. com.lee.test.A Plea
 
 
 When the newly-married pair came home, the first person who appeared, to
@@ -8827,7 +8827,7 @@ have parted from his lips for the first time--
 XXI. Echoing Footsteps
 
 
-A wonderful corner for echoes, it has been remarked, that corner where
+com.lee.test.A wonderful corner for echoes, it has been remarked, that corner where
 the Doctor lived. Ever busily winding the golden thread which bound
 her husband, and her father, and herself, and her old directress and
 companion, in a life of quiet bliss, Lucie sat in the still house in
@@ -8965,7 +8965,7 @@ among some of them for sending it to England.”
 
 “That has a bad look,” said Darnay--
 
-“A bad look, you say, my dear Darnay? Yes, but we don't know what reason
+“com.lee.test.A bad look, you say, my dear Darnay? Yes, but we don't know what reason
 there is in it. People are so unreasonable! Some of us at Tellson's are
 getting old, and we really can't be troubled out of the ordinary course
 without due occasion.”
@@ -9004,7 +9004,7 @@ the echoes about which you have your theory.”
 
 “Not a theory; it was a fancy.”
 
-“A fancy, then, my wise pet,” said Mr. Lorry, patting her hand. “They
+“com.lee.test.A fancy, then, my wise pet,” said Mr. Lorry, patting her hand. “They
 are very numerous and very loud, though, are they not? Only hear them!”
 
 Headlong, mad, and dangerous footsteps to force their way into anybody's
@@ -9014,7 +9014,7 @@ the dark London window.
 
 Saint Antoine had been, that morning, a vast dusky mass of scarecrows
 heaving to and fro, with frequent gleams of light above the billowy
-heads, where steel blades and bayonets shone in the sun. A tremendous
+heads, where steel blades and bayonets shone in the sun. com.lee.test.A tremendous
 roar arose from the throat of Saint Antoine, and a forest of naked arms
 struggled in the air like shrivelled branches of trees in a winter wind:
 all the fingers convulsively clutching at every weapon or semblance of a
@@ -9091,7 +9091,7 @@ single drawbridge, and the massive stone walls, and the eight great
 towers, and still Defarge of the wine-shop at his gun, grown doubly hot
 by the service of Four fierce hours.
 
-A white flag from within the fortress, and a parley--this dimly
+com.lee.test.A white flag from within the fortress, and a parley--this dimly
 perceptible through the raging storm, nothing audible in it--suddenly
 the sea rose immeasurably wider and higher, and swept Defarge of the
 wine-shop over the lowered drawbridge, past the massive stone outer
@@ -9191,12 +9191,12 @@ The man obeyed, and Defarge followed the light closely with his eyes.
 
 “Stop!--Look here, Jacques!”
 
-“A. M.!” croaked Jacques Three, as he read greedily.
+“com.lee.test.A. M.!” croaked Jacques Three, as he read greedily.
 
 “Alexandre Manette,” said Defarge in his ear, following the letters
 with his swart forefinger, deeply engrained with gunpowder. “And here he
 wrote 'a poor physician.' And it was he, without doubt, who scratched
-a calendar on this stone. What is that in your hand? A crowbar? Give it
+a calendar on this stone. What is that in your hand? com.lee.test.A crowbar? Give it
 me!”
 
 He had still the linstock of his gun in his own hand. He made a sudden
@@ -9365,7 +9365,7 @@ Wretched old sinner of more than threescore years and ten, if he had
 never known it yet, he would have known it in his heart of hearts if he
 could have heard the answering cry.
 
-A moment of profound silence followed. Defarge and his wife looked
+com.lee.test.A moment of profound silence followed. Defarge and his wife looked
 steadfastly at one another. The Vengeance stooped, and the jar of a drum
 was heard as she moved it at her feet behind the counter.
 
@@ -9678,7 +9678,7 @@ according to the set of the wind, and was soon at the fountain,
 squeezing himself in among the lean kine brought there to drink, and
 appearing even to whisper to them in his whispering to all the village.
 When the village had taken its poor supper, it did not creep to bed,
-as it usually did, but came out of doors again, and remained there. A
+as it usually did, but came out of doors again, and remained there. com.lee.test.A
 curious contagion of whispering was upon it, and also, when it gathered
 together at the fountain in the dark, another curious contagion of
 looking expectantly at the sky in one direction only. Monsieur Gabelle,
@@ -9709,7 +9709,7 @@ and windows were. Then it soared higher, and grew broader and brighter.
 Soon, from a score of the great windows, flames burst forth, and the
 stone faces awakened, stared out of fire.
 
-A faint murmur arose about the house from the few people who were left
+com.lee.test.A faint murmur arose about the house from the few people who were left
 there, and there was a saddling of a horse and riding away. There was
 spurring and splashing through the darkness, and bridle was drawn in the
 space by the village fountain, and the horse in a foam stood at Monsieur
@@ -9779,7 +9779,7 @@ distant chateau for fire and candle, and the beating at his door,
 combined with the joy-ringing, for music; not to mention his having an
 ill-omened lamp slung across the road before his posting-house gate,
 which the village showed a lively inclination to displace in his favour.
-A trying suspense, to be passing a whole summer night on the brink of
+com.lee.test.A trying suspense, to be passing a whole summer night on the brink of
 the black ocean, ready to take that plunge into it upon which Monsieur
 Gabelle had resolved! But, the friendly dawn appearing at last, and the
 rush-candles of the village guttering out, the people happily dispersed,
@@ -10016,7 +10016,7 @@ English, concerning the Marquis who was not to be found.
 polished Marquis who was murdered,” said one. “Happy to say, I never
 knew him.”
 
-“A craven who abandoned his post,” said another--this Monseigneur had
+“com.lee.test.A craven who abandoned his post,” said another--this Monseigneur had
 been got out of Paris, legs uppermost and half suffocated, in a load of
 hay--“some years ago.”
 
@@ -10220,7 +10220,7 @@ return to Tellson's and take leave of Mr. Lorry. As soon as he arrived
 in Paris he would present himself to this old friend, but he must say
 nothing of his intention now.
 
-A carriage with post-horses was ready at the Bank door, and Jerry was
+com.lee.test.A carriage with post-horses was ready at the Bank door, and Jerry was
 booted and equipped.
 
 “I have delivered that letter,” said Charles Darnay to Mr. Lorry. “I
@@ -10315,7 +10315,7 @@ hold, as their capricious judgment or fancy deemed best for the dawning
 Republic One and Indivisible, of Liberty, Equality, Fraternity, or
 Death.
 
-A very few French leagues of his journey were accomplished, when Charles
+com.lee.test.A very few French leagues of his journey were accomplished, when Charles
 Darnay began to perceive that for him along these country roads there
 was no hope of return until he should have been declared a good citizen
 at Paris. Whatever might befall now, he must on to his journey's end.
@@ -10495,7 +10495,7 @@ Darnay observed that the gate was held by a mixed guard of soldiers and
 patriots, the latter far outnumbering the former; and that while ingress
 into the city for peasants' carts bringing in supplies, and for similar
 traffic and traffickers, was easy enough, egress, even for the homeliest
-people, was very difficult. A numerous medley of men and women, not
+people, was very difficult. com.lee.test.A numerous medley of men and women, not
 to mention beasts and vehicles of various sorts, was waiting to issue
 forth; but, the previous identification was so strict, that they
 filtered through the barrier very slowly. Some of these people knew
@@ -10582,7 +10582,7 @@ and called La Guillotine, why did you come to France?”
 “You heard me say why, a minute ago. Do you not believe it is the
 truth?”
 
-“A bad truth for you,” said Defarge, speaking with knitted brows, and
+“com.lee.test.A bad truth for you,” said Defarge, speaking with knitted brows, and
 looking straight before him.
 
 “Indeed I am lost here. All here is so unprecedented, so changed, so
@@ -10626,7 +10626,7 @@ I will do nothing for you.”
 Charles Darnay felt it hopeless to entreat him further, and his pride
 was touched besides. As they walked on in silence, he could not but see
 how used the people were to the spectacle of prisoners passing along the
-streets. The very children scarcely noticed him. A few passers turned
+streets. The very children scarcely noticed him. com.lee.test.A few passers turned
 their heads, and a few shook their fingers at him as an aristocrat;
 otherwise, that a man in good clothes should be going to prison, was no
 more remarkable than that a labourer in working clothes should be
@@ -10662,7 +10662,7 @@ certainty; but, beyond this, he dreaded nothing distinctly. With this on
 his mind, which was enough to carry into a dreary prison courtyard, he
 arrived at the prison of La Force.
 
-A man with a bloated face opened the strong wicket, to whom Defarge
+com.lee.test.A man with a bloated face opened the strong wicket, to whom Defarge
 presented “The Emigrant Evremonde.”
 
 “What the Devil! How many more of them!” exclaimed the man with the
@@ -10813,7 +10813,7 @@ Tellson's Bank, established in the Saint Germain Quarter of Paris, was
 in a wing of a large house, approached by a courtyard and shut off from
 the street by a high wall and a strong gate. The house belonged to
 a great nobleman who had lived in it until he made a flight from the
-troubles, in his own cook's dress, and got across the borders. A
+troubles, in his own cook's dress, and got across the borders. com.lee.test.A
 mere beast of the chase flying from hunters, he was still in his
 metempsychosis no other than the same Monseigneur, the preparation
 of whose chocolate for whose lips had once occupied three strong men
@@ -10830,7 +10830,7 @@ of September, patriot emissaries of the law were in possession of
 Monseigneur's house, and had marked it with the tri-colour, and were
 drinking brandy in its state apartments.
 
-A place of business in London like Tellson's place of business in Paris,
+com.lee.test.A place of business in London like Tellson's place of business in Paris,
 would soon have driven the House out of its mind and into the Gazette.
 For, what would staid British responsibility and respectability have
 said to orange-trees in boxes in a Bank courtyard, and even to a Cupid
@@ -11049,7 +11049,7 @@ and used as a kind of armoury, my love.”
 
 Twice more in all; but, the last spell of work was feeble and fitful.
 Soon afterwards the day began to dawn, and he softly detached himself
-from the clasping hand, and cautiously looked out again. A man, so
+from the clasping hand, and cautiously looked out again. com.lee.test.A man, so
 besmeared that he might have been a sorely wounded soldier creeping back
 to consciousness on a field of slain, was rising from the pavement by
 the side of the grindstone, and looking about him with a vacant air.
@@ -11098,7 +11098,7 @@ To this lodging he at once removed Lucie and her child, and Miss Pross:
 giving them what comfort he could, and much more than he had himself.
 He left Jerry with them, as a figure to fill a doorway that would bear
 considerable knocking on the head, and returned to his own occupations.
-A disturbed and doleful mind he brought to bear upon them, and slowly
+com.lee.test.A disturbed and doleful mind he brought to bear upon them, and slowly
 and heavily the day lagged on with him.
 
 It wore itself out, and wore him out with it, until the Bank closed. He
@@ -11281,7 +11281,7 @@ late gone with many poor souls. Cheer up, and have a thankful heart.”
 shadow on me and on all my hopes.”
 
 “Tut, tut!” said Mr. Lorry; “what is this despondency in the brave
-little breast? A shadow indeed! No substance in it, Lucie.”
+little breast? com.lee.test.A shadow indeed! No substance in it, Lucie.”
 
 But the shadow of the manner of these Defarges was dark upon himself,
 for all that, and in his secret mind it troubled him greatly.
@@ -11429,7 +11429,7 @@ head of his fair wife which had had eight weary months of imprisoned
 widowhood and misery, to turn it grey.
 
 And yet, observing the strange law of contradiction which obtains in
-all such cases, the time was long, while it flamed by so fast. A
+all such cases, the time was long, while it flamed by so fast. com.lee.test.A
 revolutionary tribunal in the capital, and forty or fifty thousand
 revolutionary committees all over the land; a law of the Suspected,
 which struck away all security for liberty or life, and delivered over
@@ -11576,7 +11576,7 @@ appeared.
 
 “Yes, citizen.”
 
-“Ah! A child too! Your mother, is it not, my little citizeness?”
+“Ah! com.lee.test.A child too! Your mother, is it not, my little citizeness?”
 
 “Do I say yes, mamma?” whispered little Lucie, drawing close to her.
 
@@ -11636,7 +11636,7 @@ female was by that time popularly canonised. His shop was shut and he
 was not there, which was a relief to Lucie, and left her quite alone.
 
 But, he was not far off, for presently she heard a troubled movement
-and a shouting coming along, which filled her with fear. A moment
+and a shouting coming along, which filled her with fear. com.lee.test.A moment
 afterwards, and a throng of people came pouring round the corner by the
 prison wall, in the midst of whom was the wood-sawyer hand in hand with
 The Vengeance. There could not be fewer than five hundred people, and
@@ -11691,7 +11691,7 @@ kiss your hand towards that highest shelving roof.”
 “No, father,” said Lucie, yearning and weeping as she kissed her hand,
 “no.”
 
-A footstep in the snow. Madame Defarge. “I salute you, citizeness,”
+com.lee.test.A footstep in the snow. Madame Defarge. “I salute you, citizeness,”
  from the Doctor. “I salute you, citizen.” This in passing. Nothing more.
 Madame Defarge gone, like a shadow over the white road.
 
@@ -11725,7 +11725,7 @@ and made national. What he could save for the owners, he saved. No
 better man living to hold fast by what Tellson's had in keeping, and to
 hold his peace.
 
-A murky red and yellow sky, and a rising mist from the Seine, denoted
+com.lee.test.A murky red and yellow sky, and a rising mist from the Seine, denoted
 the approach of darkness. It was almost dark when they arrived at the
 Bank. The stately residence of Monseigneur was altogether blighted and
 deserted. Above a heap of dust and ashes in the court, ran the letters:
@@ -11855,7 +11855,7 @@ But he had married in England? the President reminded him.
 
 True, but not an English woman.
 
-A citizeness of France?
+com.lee.test.A citizeness of France?
 
 Yes. By birth.
 
@@ -12021,7 +12021,7 @@ tremble so. I have saved him.”
 
 
 
-VII. A Knock at the Door
+VII. com.lee.test.A Knock at the Door
 
 
 “I have saved him.” It was not another of the dreams in which he had
@@ -12182,7 +12182,7 @@ shoulder, “I _have_ saved him. What weakness is this, my dear! Let me go
 to the door.”
 
 He took the lamp in his hand, crossed the two intervening outer rooms,
-and opened it. A rude clattering of feet over the floor, and four rough
+and opened it. com.lee.test.A rude clattering of feet over the floor, and four rough
 men in red caps, armed with sabres and pistols, entered the room.
 
 “The Citizen Evremonde, called Darnay,” said the first.
@@ -12255,7 +12255,7 @@ answered to-morrow. Now, I am dumb!”
 
 
 
-VIII. A Hand at Cards
+VIII. com.lee.test.A Hand at Cards
 
 
 Happily unconscious of the new calamity at home, Miss Pross threaded her
@@ -12764,7 +12764,7 @@ Impossible, here in raging Paris, with Suspicion filling the air, for
 you to outlive denunciation, when you are in communication with another
 aristocratic spy of the same antecedents as yourself, who, moreover, has
 the mystery about him of having feigned death and come to life again!
-A plot in the prisons, of the foreigner against the Republic. A strong
+com.lee.test.A plot in the prisons, of the foreigner against the Republic. com.lee.test.A strong
 card--a certain Guillotine card! Do you play?”
 
 “No!” returned the spy. “I throw up. I confess that we were so unpopular
@@ -12895,7 +12895,7 @@ for what he would have undug--if it wos so--by diggin' of 'em in with
 a will, and with conwictions respectin' the futur' keepin' of 'em safe.
 That, Mr. Lorry,” said Mr. Cruncher, wiping his forehead with his
 arm, as an announcement that he had arrived at the peroration of his
-discourse, “is wot I would respectfully offer to you, sir. A man don't
+discourse, “is wot I would respectfully offer to you, sir. com.lee.test.A man don't
 see all this here a goin' on dreadful round him, in the way of Subjects
 without heads, dear me, plentiful enough fur to bring the price down
 to porterage and hardly that, without havin' his serious thoughts of
@@ -12971,7 +12971,7 @@ on you. How does she look?”
 
 It was a long, grieving sound, like a sigh--almost like a sob. It
 attracted Mr. Lorry's eyes to Carton's face, which was turned to the
-fire. A light, or a shade (the old gentleman could not have said which),
+fire. com.lee.test.A light, or a shade (the old gentleman could not have said which),
 passed from it as swiftly as a change will sweep over a hill-side on a
 wild bright day, and he lifted his foot to put back one of the little
 flaming logs, which was tumbling forward. He wore the white riding-coat
@@ -13012,7 +13012,7 @@ may say that I was a man of business when a boy.”
 “See what a place you fill at seventy-eight. How many people will miss
 you when you leave it empty!”
 
-“A solitary old bachelor,” answered Mr. Lorry, shaking his head. “There
+“com.lee.test.A solitary old bachelor,” answered Mr. Lorry, shaking his head. “There
 is nobody to weep for me.”
 
 “How can you say that? Wouldn't She weep for you? Wouldn't her child?”
@@ -13071,7 +13071,7 @@ uneasy; I shall reappear in the morning. You go to the Court to-morrow?”
 “I shall be there, but only as one of the crowd. My Spy will find a
 place for me. Take my arm, sir.”
 
-Mr. Lorry did so, and they went down-stairs and out in the streets. A
+Mr. Lorry did so, and they went down-stairs and out in the streets. com.lee.test.A
 few minutes brought them to Mr. Lorry's destination. Carton left him
 there; but lingered at a little distance, and turned back to the gate
 again when it was shut, and touched it. He had heard of her going to
@@ -13080,7 +13080,7 @@ the prison every day. “She came out here,” he said, looking about him,
 her steps.”
 
 It was ten o'clock at night when he stood before the prison of La Force,
-where she had stood hundreds of times. A little wood-sawyer, having
+where she had stood hundreds of times. com.lee.test.A little wood-sawyer, having
 closed his shop, was smoking his pipe at his shop-door.
 
 “Good night, citizen,” said Sydney Carton, pausing in going by; for, the
@@ -13130,7 +13130,7 @@ of paper. Then, traversing with the decided step of one who remembered
 the way well, several dark and dirty streets--much dirtier than usual,
 for the best public thoroughfares remained uncleansed in those times of
 terror--he stopped at a chemist's shop, which the owner was closing with
-his own hands. A small, dim, crooked shop, kept in a tortuous, up-hill
+his own hands. com.lee.test.A small, dim, crooked shop, kept in a tortuous, up-hill
 thoroughfare, by a small, dim, crooked man.
 
 Giving this citizen, too, good night, as he confronted him at his
@@ -13228,7 +13228,7 @@ bank. When he awoke and was afoot again, he lingered there yet a little
 longer, watching an eddy that turned and turned purposeless, until the
 stream absorbed it, and carried it on to the sea.--“Like me.”
 
-A trading-boat, with a sail of the softened colour of a dead leaf, then
+com.lee.test.A trading-boat, with a sail of the softened colour of a dead leaf, then
 glided into his view, floated by him, and died away. As its silent track
 in the water disappeared, the prayer that had broken up out of his heart
 for a merciful consideration of all his poor blindnesses and errors,
@@ -13261,12 +13261,12 @@ Every eye was turned to the jury. The same determined patriots and good
 republicans as yesterday and the day before, and to-morrow and the day
 after. Eager and prominent among them, one man with a craving face, and
 his fingers perpetually hovering about his lips, whose appearance
-gave great satisfaction to the spectators. A life-thirsting,
+gave great satisfaction to the spectators. com.lee.test.A life-thirsting,
 cannibal-looking, bloody-minded juryman, the Jacques Three of St.
 Antoine. The whole jury, as a jury of dogs empannelled to try the deer.
 
 Every eye then turned to the five judges and the public prosecutor.
-No favourable leaning in that quarter to-day. A fell, uncompromising,
+No favourable leaning in that quarter to-day. com.lee.test.A fell, uncompromising,
 murderous business-meaning there. Every eye then sought some other eye
 in the crowd, and gleamed at it approvingly; and heads nodded at one
 another, before bending forward with a strained attention.
@@ -13296,7 +13296,7 @@ The President asked, was the Accused openly denounced or secretly?
 
 “Alexandre Manette, physician.”
 
-A great uproar took place in the court, and in the midst of it, Doctor
+com.lee.test.A great uproar took place in the court, and in the midst of it, Doctor
 Manette was seen, pale and trembling, standing where he had been seated.
 
 “President, I indignantly protest to you that this is a forgery and
@@ -13512,7 +13512,7 @@ was the elder who replied, 'Since about this hour last night.'
 
 “'She has a husband, a father, and a brother?'
 
-“'A brother.'
+“'com.lee.test.A brother.'
 
 “'I do not address her brother?'
 
@@ -13603,7 +13603,7 @@ as if he were a fellow-creature.
 
 “'How has this been done, monsieur?' said I.
 
-“'A crazed young common dog! A serf! Forced my brother to draw upon him,
+“'com.lee.test.A crazed young common dog! com.lee.test.A serf! Forced my brother to draw upon him,
 and has fallen by my brother's sword--like a gentleman.'
 
 “There was no touch of pity, sorrow, or kindred humanity, in this
@@ -13964,7 +13964,7 @@ night of the year 1767, in my unbearable agony, denounce to the times
 when all these things shall be answered for. I denounce them to Heaven
 and to earth.”
 
-A terrible sound arose when the reading of this document was done. A
+com.lee.test.A terrible sound arose when the reading of this document was done. com.lee.test.A
 sound of craving and eagerness that had nothing articulate in it but
 blood. The narrative called up the most revengeful passions of the time,
 and there was not a head in the nation but must have dropped before it.
@@ -14033,12 +14033,12 @@ shall meet again, where the weary are at rest!”
 They were her husband's words, as he held her to his bosom.
 
 “I can bear it, dear Charles. I am supported from above: don't suffer
-for me. A parting blessing for our child.”
+for me. com.lee.test.A parting blessing for our child.”
 
 “I send it to her by you. I kiss her by you. I say farewell to her by
 you.”
 
-“My husband. No! A moment!” He was tearing himself apart from her.
+“My husband. No! com.lee.test.A moment!” He was tearing himself apart from her.
 “We shall not be separated long. I feel that this will break my heart
 by-and-bye; but I will do my duty while I can, and when I leave her, God
 will raise up friends for her, as He did for me.”
@@ -14105,7 +14105,7 @@ put her gently from him, and looked at her unconscious mother.
 It was remembered afterwards that when he bent down and touched her face
 with his lips, he murmured some words. The child, who was nearest to
 him, told them afterwards, and told her grandchildren when she was a
-handsome old lady, that she heard him say, “A life you love.”
+handsome old lady, that she heard him say, “com.lee.test.A life you love.”
 
 When he had gone out into the next room, he turned suddenly on Mr. Lorry
 and her father, who were following, and said to the latter:
@@ -14440,7 +14440,7 @@ exclaimed, “Thank _God!_”
 
 “What is it?” asked Mr. Lorry, eagerly.
 
-“A moment! Let me speak of it in its place. First,” he put his hand in
+“com.lee.test.A moment! Let me speak of it in its place. First,” he put his hand in
 his coat, and took another paper from it, “that is the certificate which
 enables me to pass out of this city. Look at it. You see--Sydney Carton,
 an Englishman?”
@@ -14656,7 +14656,7 @@ But, it beckoned him back in his sleep, and showed itself in shining
 forms. Free and happy, back in the old house in Soho (though it had
 nothing in it like the real house), unaccountably released and light of
 heart, he was with Lucie again, and she told him it was all a dream, and
-he had never gone away. A pause of forgetfulness, and then he had even
+he had never gone away. com.lee.test.A pause of forgetfulness, and then he had even
 suffered, and had come back to her, dead and at peace, and yet there
 was no difference in him. Another pause of oblivion, and he awoke in the
 sombre morning, unconscious where he was or what had happened, until it
@@ -14734,7 +14734,7 @@ The prisoner wrung his hand.
 
 “What is it?”
 
-“A most earnest, pressing, and emphatic entreaty, addressed to you
+“com.lee.test.A most earnest, pressing, and emphatic entreaty, addressed to you
 in the most pathetic tones of the voice so dear to you, that you well
 remember.”
 
@@ -14900,7 +14900,7 @@ forehead on his hands. The Spy returned immediately, with two men.
 afflicted to find that his friend has drawn a prize in the lottery of
 Sainte Guillotine?”
 
-“A good patriot,” said the other, “could hardly have been more afflicted
+“com.lee.test.A good patriot,” said the other, “could hardly have been more afflicted
 if the Aristocrat had drawn a blank.”
 
 They raised the unconscious figure, placed it on a litter they had
@@ -14922,7 +14922,7 @@ sat down at the table, and listened again until the clock struck Two.
 
 Sounds that he was not afraid of, for he divined their meaning, then
 began to be audible. Several doors were opened in succession, and
-finally his own. A gaoler, with a list in his hand, looked in, merely
+finally his own. com.lee.test.A gaoler, with a list in his hand, looked in, merely
 saying, “Follow me, Evremonde!” and he followed into a large dark room,
 at a distance. It was a dark winter day, and what with the shadows
 within, and what with the shadows without, he could but dimly discern
@@ -14934,7 +14934,7 @@ fixedly at the ground.
 As he stood by the wall in a dim corner, while some of the fifty-two
 were brought in after him, one man stopped in passing, to embrace him,
 as having a knowledge of him. It thrilled him with a great dread of
-discovery; but the man went on. A very few moments after that, a young
+discovery; but the man went on. com.lee.test.A very few moments after that, a young
 woman, with a slight girlish form, a sweet spare face in which there was
 no vestige of colour, and large widely opened patient eyes, rose from
 the seat where he had observed her sitting, and came to speak to him.
@@ -15043,7 +15043,7 @@ an aristocrat who has gone to the Guillotine.
 
 “One can depart, citizen?”
 
-“One can depart. Forward, my postilions! A good journey!”
+“One can depart. Forward, my postilions! com.lee.test.A good journey!”
 
 “I salute you, citizens.--And the first danger passed!”
 
@@ -15074,7 +15074,7 @@ Out of the open country, in again among ruinous buildings, solitary
 farms, dye-works, tanneries, and the like, cottages in twos and threes,
 avenues of leafless trees. Have these men deceived us, and taken us back
 by another road? Is not this the same place twice over? Thank Heaven,
-no. A village. Look back, look back, and see if we are pursued! Hush!
+no. com.lee.test.A village. Look back, look back, and see if we are pursued! Hush!
 the posting-house.
 
 Leisurely, our four horses are taken out; leisurely, the coach stands in
@@ -15104,7 +15104,7 @@ haunches. We are pursued?
 
 “Fifty-two.”
 
-“I said so! A brave number! My fellow-citizen here would have it
+“I said so! com.lee.test.A brave number! My fellow-citizen here would have it
 forty-two; ten more heads are worth having. The Guillotine goes
 handsomely. I love it. Hi forward. Whoop!”
 
@@ -15772,7 +15772,7 @@ her. I cry with vexation and disappointment!”
 
 As The Vengeance descends from her elevation to do it, the tumbrils
 begin to discharge their loads. The ministers of Sainte Guillotine are
-robed and ready. Crash!--A head is held up, and the knitting-women who
+robed and ready. Crash!--com.lee.test.A head is held up, and the knitting-women who
 scarcely lifted their eyes to look at it a moment ago when it could
 think and speak, count One.
 
@@ -15909,9 +15909,9 @@ far, far better rest that I go to than I have ever known.”
 
 
 
-End of the Project Gutenberg EBook of A Tale of Two Cities, by Charles Dickens
+End of the Project Gutenberg EBook of com.lee.test.A Tale of Two Cities, by Charles Dickens
 
-*** END OF THIS PROJECT GUTENBERG EBOOK A TALE OF TWO CITIES ***
+*** END OF THIS PROJECT GUTENBERG EBOOK com.lee.test.A TALE OF TWO CITIES ***
 
 ***** This file should be named 98-0.txt or 98-0.zip *****
 This and all associated files of various formats will be found in:
@@ -15957,7 +15957,7 @@ http://gutenberg.org/license).
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
-1.A.  By reading or using any part of this Project Gutenberg-tm
+1.com.lee.test.A.  By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement.  If you do not agree to abide by all

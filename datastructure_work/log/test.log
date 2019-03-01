@@ -1,127 +1,127 @@
-21:31:38.456 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:100
-21:31:38.481 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:1
-21:31:38.483 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
-21:31:38.484 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:100
-21:31:38.485 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.486 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,
-21:31:38.486 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:50
-21:31:38.487 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:2
-21:31:38.487 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:1
-21:31:38.488 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:50
-21:31:38.488 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.489 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,
-21:31:38.489 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:140
-21:31:38.489 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:2
-21:31:38.490 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
-21:31:38.490 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:140
-21:31:38.495 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.498 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,
-21:31:38.499 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:145
-21:31:38.500 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:140, height:2
-21:31:38.500 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:-1
-21:31:38.501 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:3
-21:31:38.503 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:-1
-21:31:38.504 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:145
-21:31:38.504 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.505 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,145,
-21:31:38.506 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:40
-21:31:38.506 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:50, height:2
-21:31:38.507 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:50,fact:1
-21:31:38.508 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:3
-21:31:38.509 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
-21:31:38.510 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:40
-21:31:38.511 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.513 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,40,145,
-21:31:38.513 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:150
-21:31:38.515 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:145, height:2
-21:31:38.516 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:145,fact:-1
-21:31:38.516 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:140, height:3
-21:31:38.517 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:-2
-21:31:38.518 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:3
-21:31:38.519 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
-21:31:38.519 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:150
-21:31:38.520 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.521 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,145,40,140,150,
-21:31:38.521 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:70
-21:31:38.522 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:50, height:2
-21:31:38.522 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:50,fact:0
-21:31:38.523 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:3
-21:31:38.523 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
-21:31:38.524 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:70
-21:31:38.525 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.525 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,145,40,70,140,150,
-21:31:38.526 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:130
-21:31:38.527 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:140, height:2
-21:31:38.529 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:1
-21:31:38.529 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:145, height:3
-21:31:38.530 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:145,fact:1
-21:31:38.531 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:4
-21:31:38.532 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:-1
-21:31:38.533 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:130
-21:31:38.534 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.535 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,145,40,70,140,150,130,
-21:31:38.536 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:20
-21:31:38.536 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:40, height:2
-21:31:38.537 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:40,fact:1
-21:31:38.538 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:50, height:3
-21:31:38.538 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:50,fact:1
-21:31:38.540 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:4
-21:31:38.540 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
-21:31:38.541 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:20
-21:31:38.543 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.544 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,145,40,70,140,150,20,130,
-21:31:38.544 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:125
-21:31:38.545 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:130, height:2
-21:31:38.547 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:130,fact:1
-21:31:38.559 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:140, height:3
-21:31:38.560 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:2
-21:31:38.563 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:145, height:3
-21:31:38.566 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:145,fact:1
-21:31:38.567 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:4
-21:31:38.567 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
-21:31:38.568 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:125
-21:31:38.569 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.569 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,145,40,70,130,150,20,125,140,
-21:31:38.570 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:135
-21:31:38.575 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:140, height:2
-21:31:38.598 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:1
-21:31:38.599 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:130, height:3
-21:31:38.599 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:130,fact:-1
-21:31:38.600 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:145, height:4
-21:31:38.600 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:145,fact:2
-21:31:38.600 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:4
-21:31:38.601 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
-21:31:38.602 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:135
-21:31:38.605 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.607 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,40,70,130,145,20,125,135,150,
-21:31:38.608 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:147
-21:31:38.608 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:150, height:2
-21:31:38.609 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:150,fact:1
-21:31:38.609 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:145, height:3
-21:31:38.609 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:145,fact:-2
-21:31:38.610 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:140, height:3
-21:31:38.610 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:0
-21:31:38.610 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:4
-21:31:38.610 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
-21:31:38.611 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:147
-21:31:38.611 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.611 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,40,70,130,147,20,125,135,145,150,
-21:31:38.611 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:160
-21:31:38.612 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:150, height:2
-21:31:38.612 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:150,fact:-1
-21:31:38.612 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:147, height:3
-21:31:38.613 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:147,fact:-1
-21:31:38.614 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:140, height:4
-21:31:38.614 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:-1
-21:31:38.614 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:5
-21:31:38.614 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:-1
-21:31:38.615 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:160
-21:31:38.615 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
-21:31:38.616 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,40,70,130,147,20,125,135,145,150,160,
-21:33:01.180 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:147, height:3
-21:33:01.186 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:147,fact:-2
-21:33:01.194 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:140, height:3
-21:33:01.195 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:0
-21:33:01.198 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 190 updateHeight - nodeIndex:100, height:4
-21:33:01.199 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
-21:33:02.722 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.TestClient 62 del - -----sb:100,50,140,40,70,130,150,20,125,135,147,160,
+13:15:34.431 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:100
+13:15:34.455 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:1
+13:15:34.456 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
+13:15:34.457 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:100
+13:15:34.457 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.459 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,
+13:15:34.460 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:50
+13:15:34.460 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:2
+13:15:34.461 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:1
+13:15:34.461 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:50
+13:15:34.462 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.463 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,
+13:15:34.463 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:140
+13:15:34.464 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:2
+13:15:34.465 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
+13:15:34.465 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:140
+13:15:34.466 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.467 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,
+13:15:34.467 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:145
+13:15:34.468 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:140, height:2
+13:15:34.469 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:-1
+13:15:34.470 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:3
+13:15:34.471 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:-1
+13:15:34.471 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:145
+13:15:34.471 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.472 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,145,
+13:15:34.472 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:40
+13:15:34.473 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:50, height:2
+13:15:34.474 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:50,fact:1
+13:15:34.475 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:3
+13:15:34.479 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
+13:15:34.479 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:40
+13:15:34.481 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.481 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,40,145,
+13:15:34.482 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:150
+13:15:34.482 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:145, height:2
+13:15:34.483 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:145,fact:-1
+13:15:34.483 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:140, height:3
+13:15:34.483 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:-2
+13:15:34.485 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:3
+13:15:34.486 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
+13:15:34.486 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:150
+13:15:34.487 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.487 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,145,40,140,150,
+13:15:34.488 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:70
+13:15:34.490 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:50, height:2
+13:15:34.491 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:50,fact:0
+13:15:34.491 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:3
+13:15:34.492 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
+13:15:34.494 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:70
+13:15:34.494 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.496 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,145,40,70,140,150,
+13:15:34.497 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:130
+13:15:34.498 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:140, height:2
+13:15:34.499 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:1
+13:15:34.501 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:145, height:3
+13:15:34.501 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:145,fact:1
+13:15:34.504 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:4
+13:15:34.505 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:-1
+13:15:34.505 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:130
+13:15:34.506 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.506 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,145,40,70,140,150,130,
+13:15:34.506 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:20
+13:15:34.507 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:40, height:2
+13:15:34.507 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:40,fact:1
+13:15:34.507 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:50, height:3
+13:15:34.508 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:50,fact:1
+13:15:34.509 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:4
+13:15:34.509 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
+13:15:34.510 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:20
+13:15:34.511 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.512 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,145,40,70,140,150,20,130,
+13:15:34.512 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:125
+13:15:34.513 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:130, height:2
+13:15:34.513 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:130,fact:1
+13:15:34.513 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:140, height:3
+13:15:34.514 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:2
+13:15:34.515 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:145, height:3
+13:15:34.515 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:145,fact:1
+13:15:34.515 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:4
+13:15:34.515 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
+13:15:34.516 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:125
+13:15:34.516 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.516 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,145,40,70,130,150,20,125,140,
+13:15:34.517 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:135
+13:15:34.518 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:140, height:2
+13:15:34.520 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:1
+13:15:34.520 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:130, height:3
+13:15:34.520 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:130,fact:-1
+13:15:34.521 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:145, height:4
+13:15:34.521 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:145,fact:2
+13:15:34.521 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:4
+13:15:34.521 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
+13:15:34.522 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:135
+13:15:34.522 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.522 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,40,70,130,145,20,125,135,150,
+13:15:34.523 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:147
+13:15:34.523 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:150, height:2
+13:15:34.524 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:150,fact:1
+13:15:34.525 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:145, height:3
+13:15:34.527 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:145,fact:-2
+13:15:34.528 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:140, height:3
+13:15:34.528 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:0
+13:15:34.529 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:4
+13:15:34.530 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
+13:15:34.530 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:147
+13:15:34.530 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.531 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,40,70,130,147,20,125,135,145,150,
+13:15:34.531 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 46 put - put:160
+13:15:34.531 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:150, height:2
+13:15:34.531 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:150,fact:-1
+13:15:34.532 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:147, height:3
+13:15:34.532 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:147,fact:-1
+13:15:34.532 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:140, height:4
+13:15:34.536 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:-1
+13:15:34.536 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:5
+13:15:34.537 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:-1
+13:15:34.537 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 49 put - end:160
+13:15:34.541 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 50 put - -----:
+13:15:34.541 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 53 put - -----sb:100,50,140,40,70,130,147,20,125,135,145,150,160,
+13:15:34.542 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:147, height:3
+13:15:34.542 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:147,fact:-2
+13:15:34.542 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:140, height:3
+13:15:34.542 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:140,fact:0
+13:15:34.543 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 193 updateHeight - nodeIndex:100, height:4
+13:15:34.544 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.AVLTree2Log 101 fixInsertionBalance - node:100,fact:0
+13:15:34.545 INFO  com.lee.test.jdk11.datastructure.mook.tree.avl.TestClient 62 del - -----sb:100,50,140,40,70,130,150,20,125,135,147,160,
