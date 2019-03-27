@@ -1,18 +1,17 @@
-package lambdasinaction.chap5;
+package com.lee.test.jdk11.java8;
 
-import lambdasinaction.chap4.Dish;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.NoSuchElementException;
 import java.util.Optional;
 import java.util.concurrent.TimeUnit;
 
+import static com.lee.test.jdk11.java8.Dish.menu;
 import static java.util.stream.Collectors.toList;
-import static lambdasinaction.chap4.Dish.menu;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.testng.Assert.assertTrue;
 
@@ -23,8 +22,6 @@ public class Filtering {
 
 
     public static void main(String... args) {
-
-
 
 
         // Filtering with predicate
@@ -82,7 +79,7 @@ public class Filtering {
 
     }
 
-    public void getUser(User user){
+    public void getUser(User user) {
 //        String isocode = user.getAddress().getCountry().getIsocode().toUpperCase();
 
 
@@ -101,13 +98,13 @@ public class Filtering {
 
     }
 
-    @Test(expected = NoSuchElementException.class)
+    //    @Test(expected = NoSuchElementException.class)
     public void whenCreateEmptyOptional_thenNull() {
         Optional<User> emptyOpt = Optional.empty();
         emptyOpt.get();
     }
 
-//    @Test(expected = NullPointerException.class)
+    //    @Test(expected = NullPointerException.class)
     @Test
     public void whenCreateOfEmptyOptional_thenNullPointerException() {
 
@@ -140,7 +137,7 @@ public class Filtering {
 
         assertEquals(user.getEmail(), opt.get().getEmail());
 
-        opt.ifPresent( u -> assertEquals(user.getEmail(), u.getEmail()));
+        opt.ifPresent(u -> assertEquals(user.getEmail(), u.getEmail()));
 
 
     }
@@ -156,19 +153,16 @@ public class Filtering {
 
     @Test
     public void whenValueNotNull_thenIgnoreDefault() {
-        User user = new User("john@gmail.com","1234");
+        User user = new User("john@gmail.com", "1234");
         User user2 = new User("anna@gmail.com", "1234");
 //        User result = Optional.ofNullable(user).orElse(user2);
-        User result = Optional.ofNullable(user).orElseGet( () -> user2);
+        User result = Optional.ofNullable(user).orElseGet(() -> user2);
 
         assertEquals("john@gmail.com", result.getEmail());
 
 //        https://www.cnblogs.com/zhangboyu/p/7580262.html
 
     }
-
-
-
 
 
     @Test
@@ -194,12 +188,12 @@ public class Filtering {
         User result2 = Optional.ofNullable(user).orElseGet(() -> createNewUser());
     }
 
-    @Test(expected = IllegalArgumentException.class)
+    //    @Test(expected = IllegalArgumentException.class)
     public void whenThrowException_thenOk() {
         User user = new User("john@gmail.com", "1234");
 
         User result = Optional.ofNullable(user)
-                .orElseThrow( () -> new IllegalArgumentException());
+                .orElseThrow(() -> new IllegalArgumentException());
     }
 
     @Test
@@ -208,13 +202,14 @@ public class Filtering {
         User user = null;
         String email = Optional.ofNullable(user)
                 .map(u -> u.getEmail()).orElse("default@gmail.com");
-
+        logger.info(":" + email);
         assertEquals(email, user.getEmail());
     }
 
 }
 
-class User{
+
+class User {
 
     private String email;
     private String psw;
@@ -245,30 +240,33 @@ class User{
 
     Address address;
 
-    public Address getAddress(){
+    public Address getAddress() {
         address = new Address();
         return address;
     }
-    public Country getCountry(){
+
+    public Country getCountry() {
         return address.getCountry();
     }
-    public User getIsocode(){
+
+    public User getIsocode() {
         return this;
     }
-    public String toUpperCase(){
+
+    public String toUpperCase() {
         return toString();
     }
 }
 
-class Address{
-    public Country getCountry(){
+class Address {
+    public Country getCountry() {
         return new Country();
     }
 }
 
-class Country{
+class Country {
 
-    public String getIsocode(){
+    public String getIsocode() {
         return "";
     }
 
