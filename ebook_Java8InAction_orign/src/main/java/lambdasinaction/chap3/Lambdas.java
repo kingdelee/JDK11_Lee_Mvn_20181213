@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Stream;
 
 public class Lambdas {
     public static void main(String... args) {
@@ -73,4 +74,14 @@ public class Lambdas {
     interface ApplePredicate {
         boolean test(Apple a);
     }
+
+
+    // 遍历索引
+    public void t1(String[] args) {
+        List<String> list = java.util.Arrays.asList("a", "b", "c", "c", "d", "f", "a");
+        Stream.iterate(0, i -> i + 1).limit(list.size()).forEach(i -> {
+            System.out.println(String.valueOf(i) + list.get(i));
+        });
+    }
+
 }

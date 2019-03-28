@@ -1,6 +1,9 @@
 package lambdasinaction.chap6;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.*;
+import java.util.concurrent.TimeUnit;
 
 import static java.util.stream.Collectors.groupingBy;
 
@@ -71,5 +74,15 @@ public class GroupingTransactions {
 
     public enum Currency {
         EUR, USD, JPY, GBP, CHF
+    }
+
+
+    @Test
+    public void t1() throws InterruptedException {
+        int count = 0;
+        while(true){
+            System.out.println("in:" + count++);
+            TimeUnit.SECONDS.sleep(5);
+        }
     }
 }

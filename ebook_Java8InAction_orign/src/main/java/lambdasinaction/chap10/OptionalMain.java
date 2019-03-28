@@ -1,8 +1,8 @@
 package lambdasinaction.chap10;
 
-import java.util.List;
-import java.util.Optional;
-import java.util.Set;
+import org.junit.Test;
+
+import java.util.*;
 
 import static java.util.stream.Collectors.toSet;
 
@@ -22,5 +22,10 @@ public class OptionalMain {
                 .map(optInsurance -> optInsurance.map(Insurance::getName))
                 .flatMap(Optional::stream)
                 .collect(toSet());
+    }
+
+    @Test
+    public void t1(){
+        Map<Integer, Integer> map = new HashMap<>();
     }
 }

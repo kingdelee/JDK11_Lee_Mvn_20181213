@@ -1,9 +1,12 @@
 package lambdasinaction.chap6;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import java.util.Set;
+import java.util.concurrent.TimeUnit;
 
 import static java.util.stream.Collectors.*;
 import static lambdasinaction.chap6.Dish.dishTags;
@@ -104,5 +107,15 @@ public class Grouping {
                             else return CaloricLevel.FAT;
                         },
                         toSet())));
+    }
+
+
+    @Test
+    public void t1() throws InterruptedException {
+        int count = 0;
+        while(true){
+            System.out.println("in:" + count++);
+            TimeUnit.SECONDS.sleep(5);
+        }
     }
 }
