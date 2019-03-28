@@ -28,6 +28,7 @@
         <module>lambada_work</module>
         <module>jdk8_wwj</module>
         <module>jdk8_ssy</module>
+        <module>jdk_8_11_Modern_Java</module>
     </modules>
 
     <properties>
